@@ -119,7 +119,7 @@ export default function CompassView({ onAddReflection, onNavigate }) {
                 Welcome to your Compass
               </h2>
               <p className="text-gray-600 mb-6">
-                Share what's on your mind, and I'll help you explore your values
+                Share what&apos;s on your mind, and I&apos;ll help you explore your values
               </p>
             </div>
           )}
