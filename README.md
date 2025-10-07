@@ -10,6 +10,25 @@ I am a **Machine Learning Engineer** with deep expertise in AI, decentralized sy
 
 ---
 
+## 🚀 Featured Project: Transparent AI Tutoring Assistant
+
+🧮 **[View the Full Project →](docs/README.md)**
+
+An AI-powered educational platform that provides step-by-step mathematical problem solving with transparent explanations. Built with:
+- **Backend**: FastAPI + SymPy + OpenAI GPT-4o-mini
+- **Frontend**: Next.js + TypeScript + TailwindCSS + Framer Motion
+- **Infrastructure**: Docker-ready, deployable to Vercel + Fly.io
+
+**Key Features:**
+- Real-time math problem solving with symbolic computation
+- AI-generated explanations for each step
+- Modern, responsive UI with animations
+- Complete MVP ready for deployment
+
+[📖 Documentation](docs/README.md) | [🚀 Deployment Guide](docs/DEPLOYMENT.md)
+
+---
+
 ## 🛠️ Experience Highlights
 
 ### **Machine Learning Engineer | Freelance | Philadelphia, PA**
@@ -50,20 +69,22 @@ I am a **Machine Learning Engineer** with deep expertise in AI, decentralized sy
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 More Projects
 
-- **Decentralized AI Platform**: Integrated GPT and open-source LLMs for user-first tools.
-- **Digital Governance Models**: Designed systems to streamline collaboration and value exchange.
-- **Federal Portfolio Optimization**: Improved resource allocation for major agencies.
+- **Transparent AI Tutoring Assistant** _(This Repository)_: Full-stack AI tutoring system with explainable step-by-step solutions
+- **Decentralized AI Platform**: Integrated GPT and open-source LLMs for user-first tools
+- **Digital Governance Models**: Designed systems to streamline collaboration and value exchange
+- **Federal Portfolio Optimization**: Improved resource allocation for major agencies
 
 ---
 
 ## 🏆 Achievements
 
-- Led multiple institutional proof-of-concept studies for AI-powered products.
-- Reduced security incidents by 30% as a penetration tester.
-- Enhanced federal operations, saving millions in costs.
-- Architect of novel digital interaction and collaboration models.
+- Built production-ready AI/ML applications serving educational and enterprise needs
+- Led multiple institutional proof-of-concept studies for AI-powered products
+- Reduced security incidents by 30% as a penetration tester
+- Enhanced federal operations, saving millions in costs
+- Architect of novel digital interaction and collaboration models
 
 ---
 
