@@ -1,0 +1,118 @@
+# ai-consulting-site
+
+AltruisticXAI — terminal-centric AI consultancy site scaffold (Next.js 14, App Router, Tailwind CSS, shadcn UI)
+
+This repo includes:
+- Next.js 14 (App Router) scaffold
+- Tailwind CSS + colorful theme tokens
+- shadcn UI integration points
+- Atomic components (Navbar, Footer, Hero, Services)
+- Policy Dashboard MVP skeleton (PolicyTimeline, AlertsPanel, TrendChart, EntityTagCloud)
+- FedRAMP Sandbox skeleton (RBAC gating placeholder + event audit log baseline)
+- next-mdx-remote + sample MDX blog/case-study wiring notes
+- PQC migration checklist (MDX + downloadable asset stub)
+- GitHub Actions (CI: lint, test, build, security scan, preview)
+- Runbook / deployment notes
+
+Getting started (development)
+1. Install dependencies:
+   - npm install
+2. Run dev server:
+   - npm run dev
+3. Build:
+   - npm run build
+4. Start:
+   - npm run start
+
+MDX & CMS notes
+- next-mdx-remote is used for MDX rendering. See /content for sample MDX.
+- Example wiring for Sanity and Contentful is in docs/cms-wiring.md
+
+Branch & PR convention
+- Initial branch: feat/scaffold/nextjs-tailwind-shadcn
+- PR title: scaffold: Next.js 14 + Tailwind + shadcn UI — initial scaffold, Policy Dashboard & Sandbox skeleton
+
+Deploy & Hosting (recommended)
+- Frontend previews: Vercel
+- Backend services & storage: AWS (S3, Lambda, RDS optional)
+- SSO: Okta primary; optionally Azure AD / Google Workspace
+- Analytics: PostHog (default), alternative: Plausible / GA4
+
+Environment
+- Copy `.env.example` to `.env.local` and fill values (PostHog key, Okta OIDC, AWS/S3 creds).
+
+If you want me to push files and open the PR, create the repo on GitHub and then tell me the repo exists (I will then push/create PR if you grant me collaborator access or accept a push). If you'd rather push yourself, use the commands in the main message to push branch feat/scaffold/nextjs-tailwind-shadcn.
+
+### Prompt: AI Chat/Terminal Consultancy — Scaffold & Execution Planning
+
+**Context:**  
+You are an AI assistant prepared to execute the scaffold and delivery plan for a full-featured quantum/policy AI consultancy site, optimized for compliance, dashboard UX, and rapid MVP launch.
+
+**Requirements:**  
+Based on the following sitemap and execution roadmap, generate and scaffold all foundational components, pages, technical integrations, and dev workflows.
+
+**Sitemap & Features:**
+```
+/
+├── Home
+│   └── Discover / Why AltruisticXAI / Hero Section
+├── Services
+│   ├── AI Readiness Audits (Quantum/Policy/PQC)
+│   ├── PQC Migration Tools
+│   ├── Policy Intelligence Dashboard
+│   ├── FedRAMP Sandbox for Policymakers
+│   ├── Automated Ethics/Compliance drafting
+│   └── Coalition Certification & Lobbying Toolkit
+├── Industries
+│   ├── Government
+│   ├── Academia
+│   └── Enterprise Security
+├── Platform Modules
+│   ├── Dashboard (Timeline, Alerts, TagCloud)
+│   ├── PQC Migration (Assessment, Planner)
+│   ├── Sandbox Projects (Audit Log, Scenarios)
+│   ├── Coalition Cert (Apply, Certify, Directory)
+├── Content Hub
+│   ├── Blog (/blog)
+│   ├── Case Studies (/case-studies)
+│   ├── Podcasts (/podcasts)
+│   └── White Papers (/whitepapers)
+├── Onboarding
+│   ├── Signup / Login / SaaS flow
+│   ├── User Roles: Admin, User, Partner
+│   └── Trial / Pilot Workflows
+├── Contact
+│   └── Demo Request / Partnerships / Support
+├── About
+│   └── Vision / Team / Advisory Board
+├── Security
+│   ├── PQC Planning
+│   ├── FedRAMP / SOC2 Info
+│   └── Checklists & Downloads
+├── Legal & Privacy
+│   └── Policies / Data Governance
+```
+
+**Technical Mapping:**
+- Next.js 14 (App Router), Tailwind CSS, shadcn UI (atomic components)
+- Full RBAC (OIDC/SAML/Okta), SEO, accessibility, onboarding
+- Policy Dashboard MVP: Timeline, Alerts, TagCloud
+- Sandbox MVP: Pilot environment, audit log, scenario runner
+- MDX-driven blog/case platform; starter CMS notes for Sanity/Contentful
+- PQC migration: downloadable NIST checklist, wizard tool
+- Coalition Cert: Application form, exportable PDF artifacts
+- GitHub Actions for CI/CD, security scans, onboarding docs
+
+**Action Items:**
+1. Scaffold repo: altruisticgenx/ai-consulting-site  
+   - Set license (MIT/Apache/private), team members, hosting (Vercel + AWS), SSO (Okta/AzureAD/Google)
+2. Scaffold pages/layouts above, push initial branch and PR
+3. Create epics/issues mapped to MVP milestones (Policy Dashboard, Sandbox, onboarding, blog/case hub)
+4. Deliver runbook/readme, CI workflow, and install/start scripts
+
+**Deliverable:**  
+Output starter file structure, recommended epics/issues, technical implementation plan, and sample automation scripts for repo creation and MVP launch.
+
+***
+
+You can paste this prompt into any AI app-builder, code assistant, or chat-based developer platform to auto-generate the optimal structure for your unique consultancy site.
