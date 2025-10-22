@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Inga Kaltak!
+# 👋 Hello, I’m Inga!
 
 Welcome to my GitHub profile — where curiosity meets impact.
 
