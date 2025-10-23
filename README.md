@@ -76,9 +76,3 @@ I am a **Machine Learning Engineer** with deep expertise in AI, decentralized sy
 ---
 
 > **“Building bold, secure, and human-centered digital futures.”**
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=altruisticxai-beep&show_icons=true&theme=radical)
