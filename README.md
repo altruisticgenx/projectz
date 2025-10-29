@@ -4,8 +4,6 @@ Building secure, human-first AI and decentralized systems that scale.
 
 I’m a Machine Learning Engineer and systems architect with hands-on experience across AI/LLMs, decentralized architectures, penetration testing, and federal programs. I combine product instincts, security-first engineering, and policy-savvy strategy to deliver technology that is both useful and trustworthy.
 
----
-
 ## Quick snapshot
 - Location: Philadelphia, PA (Hybrid / Remote)  
 - Roles: ML Engineer · Systems Architect · Security Researcher · Federal Consultant  
@@ -50,14 +48,10 @@ Business Analyst — SAP SuccessFactors
 Area Operations Manager — Amazon
 - Managed operations for a large fulfillment node: 95% on-time delivery, workforce of 100+ associates, and +20% productivity improvements via targeted training programs.
 
----
-
 ## Featured projects (high level)
 - Decentralized AI Platform — Integrated GPT + modular LLM backends for user-controlled inference and secure data flows. (Tech: Python, Docker, Kubernetes, LLM orchestration)
 - Digital Governance Models — Prototyped collaboration frameworks and tokenized value-exchange systems for distributed decision-making.
 - Federal Portfolio Optimization — Analytical frameworks and tools for resource planning, compliance mapping, and cost-reduction for federal clients.
-
----
 
 ## Selected wins
 - Led multiple institutional POCs for AI-powered products that moved into operational pilots.
@@ -65,19 +59,13 @@ Area Operations Manager — Amazon
 - Reduced security incidents 30% through rigorous penetration testing and remediation.
 - Enabled millions in savings across federal programs through process redesign and portfolio optimization.
 
----
-
 ## Tech & tools
 Python · PyTorch/TensorFlow · Transformers & LLM toolkits · Docker · Kubernetes · AWS / GCP · Threat modeling · Burp Suite / pentest tooling · Agile / Scrum · Product design & UX fundamentals
-
----
 
 ## How I work
 - Security-first engineering with pragmatic trade-offs.  
 - Product-minded systems architecture: prototypes fast, iterate with stakeholders, and operationalize for scale.  
 - Value-driven: I translate technical work into measurable operational outcomes.
-
----
 
 ## Looking to collaborate on
 - Human-centered AI and governance primitives  
@@ -85,14 +73,10 @@ Python · PyTorch/TensorFlow · Transformers & LLM toolkits · Docker · Kuberne
 - Security assessments and red-team engagements  
 - Federal/DoD program optimization or compliance tooling
 
----
-
 ## Contact & links
 - LinkedIn: https://www.linkedin.com/in/inga-kaltak  
 - Location: Philadelphia, PA (Hybrid / Remote)  
 - Portfolio / Website: (add your URL here)
-
----
 
 “Building bold, secure, and human-centered digital futures.”  
 — Inga Kaltak
