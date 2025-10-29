@@ -9,8 +9,6 @@ I’m a Machine Learning Engineer and systems architect with hands-on experience
 - Roles: ML Engineer · Systems Architect · Security Researcher · Federal Consultant  
 - Core approach: human-centered design + measurable operational impact
 
----
-
 ## What I do (in one line)
 I design and ship AI-driven systems and governance models that empower users, reduce risk, and unlock operational efficiencies for public- and private-sector organizations.
 
