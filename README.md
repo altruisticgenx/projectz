@@ -1,5 +1,3 @@
-GitHub Copilot Chat Assistant
-
 # 👋 Hi — I’m Inga Kaltak
 Engineer, security researcher, and systems architect building human-first AI and decentralized systems that scale.
 
