@@ -1,65 +1,52 @@
-# AltruisticXAI
+# 👋 Hi — I’m Inga Kaltak
+Engineer, security researcher, and systems architect building human-first AI and decentralized systems that scale.
 
-> **Reflect. Decide. Grow.**
-
-An AI-driven ethical reflection platform that helps users clarify core values, make decisions with confidence and privacy, and foster authentic growth.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![React](https://img.shields.io/badge/React-18.2-61DAFB.svg)
-![Tailwind](https://img.shields.io/badge/Tailwind-3.3-38B2AC.svg)
+I design and ship production-ready ML & governance systems that prioritize privacy, resilience, and real-world impact. My work blends large-language-model engineering, decentralized architecture, red-team rigor, and federal program optimization — all guided by product sensibilities and measurable outcomes.
 
 ---
 
-## 🧭 About AltruisticXAI
-
-AltruisticXAI fills the modern gap in AI-driven ethical support—a "reflection engine" helping users clarify core values, make decisions with confidence and privacy, and foster authentic growth.
+## Snapshot
+- Location: Philadelphia, PA (Hybrid / Remote)  
+- Roles: Machine Learning Engineer · Systems Architect · Security Researcher · Federal Consultant  
+- Approach: human-centered design + security-first engineering + outcome-driven delivery
 
 This isn't a productivity bot. It's a calm, psychological "safe space" for reflection. The AI guides users through binary "Ripple" choices, explains trade-offs, and helps build ethical clarity and self-awareness over time—all with radical privacy by default.
 
-## ✨ Key Features
+## What I build (one line)
+AI-native systems and governance primitives that empower users, reduce operational risk, and unlock measurable efficiencies.
 
-- **Ethical Reflection Layer**: Conversational, values-first interface for clarity and trust
-- **Transparent AI Reasoning**: Every outcome includes "why"—rationale and values affected
-- **Radical Privacy**: User-owned data, private reflections with easy controls for logs and deletion
-- **Processing Mode Toggle**: Choose between local (private) or cloud (faster) AI processing
-- **Reflection Logbook**: Private timeline of your reflection journey with export capabilities
-- **Binary Ripple Choices**: Guided decision-making through thoughtful trade-offs
+---
 
-## 🚀 Quick Start
-
-### Prerequisites
-
-- Node.js 18+ 
-- npm or yarn
-
-### Installation
+## Core strengths
+- LLM integration & production ML (GPT + open-source models)  
+- Decentralized systems & digital governance design  
+- Penetration testing, threat emulation & security hardening  
+- Federal program optimization, compliance, and stakeholder coordination  
+- Product strategy, systems architecture, and operationalization
 
 ```bash
 # Clone the repository
 git clone https://github.com/altruisticgenx/projectz.git
 cd projectz
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
+## Impact highlights
+- Built decentralized, user-first AI tooling (GPT + modular LLM backends) enabling privacy-preserving inference and modular integrations.  
+- Led brand + product rework to align technical architecture with a human-centered product vision and roadmapped features.  
+- Performed whitehat pentests for mission-critical systems; recommendations contributed to an estimated **30% reduction in incidents**.  
+- Optimized DoD portfolio allocations and compliance workflows — improving utilization by **~30%** and reducing select operational spend by **~15%**.  
+- Managed large-scale operations to 95% on-time metrics and +20% productivity improvements through targeted training and process redesign.
 
 Visit `http://localhost:5173` to see the app in action.
 
-### Build for Production
-
-```bash
-npm run build
-npm run preview
-```
+## Selected projects
+- Decentralized AI Platform — orchestrated GPT + open LLM backends for user-controlled inference and secure data flows. (Tech: Python, Docker, k8s, LLM orchestration)  
+- Digital Governance Prototypes — interaction models and tokenized value-exchange frameworks for collaborative decision-making.  
+- Federal Portfolio Optimization — analytical frameworks for resource planning, compliance mapping, and cost-reduction.
 
 ## 🎨 Design Philosophy
 
-**Brand Feel**: Calm, rounded, minimal—emphasizes trust and empathy
-
-**Typography**: Inter/Poppins for high contrast and clarity
+## Tools & tech
+Python · PyTorch / TensorFlow · Transformers · Docker · Kubernetes · AWS / GCP · LLM toolkits · Threat modeling · Burp Suite · Agile · UX & product tooling
 
 **Palette**: Pastel neutrals, blue/green primary colors, purple accent CTAs
 
@@ -127,17 +114,25 @@ See [VISION.md](./VISION.md) for detailed product vision, roadmap, UX blueprint,
 
 ## 👤 Creator
 
-**Inga Kaltak** - Machine Learning Engineer
-
-- **LinkedIn**: [linkedin.com/in/inga-kaltak](https://www.linkedin.com/in/inga-kaltak)
-- **Location**: Philadelphia, PA (Hybrid/Remote)
-
----
-
-> **"Building bold, secure, and human-centered digital futures."**
+## How I work
+- Security-first engineering with pragmatic trade-offs.  
+- Prototype fast, validate with stakeholders, then iterate toward operational robustness.  
+- Translate technical work into measurable operational outcomes and clear stakeholder value.
 
 ---
 
-## 📄 License
+## Looking to collaborate
+- Human-centered AI products and governance primitives  
+- Privacy-preserving LLM integrations and tooling  
+- Security assessments, red-team engagements, and remediation programs  
+- Federal/DoD program optimization, compliance tooling, and portfolio analytics
 
-MIT License - see LICENSE file for details
+---
+
+## Contact
+- LinkedIn — https://www.linkedin.com/in/inga-kaltak  
+- Location — Philadelphia, PA (Hybrid / Remote)  
+- Portfolio — (add your URL here)
+
+“Building bold, secure, and human-centered digital futures.”  
+— Inga Kaltak
