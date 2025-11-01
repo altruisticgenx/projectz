@@ -3,7 +3,7 @@ import { ChevronRight } from 'lucide-react';
 
 const OnboardingScreen = ({ onComplete, onSkip }) => {
   const [selectedValues, setSelectedValues] = useState([]);
-  const [step, setStep] = useState(1);
+  const [step] = useState(1);
 
   const valueOptions = [
     { id: 'speed', label: 'Speed & Efficiency', description: 'Quick results and fast execution' },
