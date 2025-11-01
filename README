@@ -1,21 +1,16 @@
 # 👋 Hi — I’m Inga
+
 Engineer, security researcher, and systems architect building human-first AI and decentralized systems that scale.
 
-I design and ship production-ready ML & governance systems that prioritize privacy, resilience, and real-world impact. My work blends large-language-model engineering, decentralized architecture, red-team rigor, and federal program optimization — all guided by product sensibilities and measurable outcomes.
-
----
+I design and ship production-ready ML and governance systems that prioritize privacy, resilience, and real‑world impact. My work blends large‑language‑model engineering, decentralized architecture, red‑team rigor, and federal program optimization — all guided by product sensibilities and measurable outcomes.
 
 ## Snapshot
 - Location: Philadelphia, PA (Hybrid / Remote)  
 - Roles: Machine Learning Engineer · Systems Architect · Security Researcher · Federal Consultant  
-- Approach: human-centered design + security-first engineering + outcome-driven delivery
-
----
+- Approach: Human-centered design · Security-first engineering · Outcome-driven delivery
 
 ## What I build (one line)
 AI-native systems and governance primitives that empower users, reduce operational risk, and unlock measurable efficiencies.
-
----
 
 ## Core strengths
 - LLM integration & production ML (GPT + open-source models)  
@@ -28,17 +23,17 @@ AI-native systems and governance primitives that empower users, reduce operation
 
 ## Impact highlights
 - Built decentralized, user-first AI tooling (GPT + modular LLM backends) enabling privacy-preserving inference and modular integrations.  
-- Led brand + product rework to align technical architecture with a human-centered product vision and roadmapped features.  
+- Led brand and product rework to align technical architecture with a human-centered product vision and roadmapped features.  
 - Performed whitehat pentests for mission-critical systems; recommendations contributed to an estimated **30% reduction in incidents**.  
 - Optimized DoD portfolio allocations and compliance workflows — improving utilization by **~30%** and reducing select operational spend by **~15%**.  
-- Managed large-scale operations to 95% on-time metrics and +20% productivity improvements through targeted training and process redesign.
+- Managed large-scale operations to 95% on-time metrics and achieved +20% productivity improvements through targeted training and process redesign.
 
 ---
 
 ## Selected projects
-- Decentralized AI Platform — orchestrated GPT + open LLM backends for user-controlled inference and secure data flows. (Tech: Python, Docker, k8s, LLM orchestration)  
-- Digital Governance Prototypes — interaction models and tokenized value-exchange frameworks for collaborative decision-making.  
-- Federal Portfolio Optimization — analytical frameworks for resource planning, compliance mapping, and cost-reduction.
+- Decentralized AI Platform — orchestrated GPT + open LLM backends for user-controlled inference and secure data flows. (Tech: Python, Docker, Kubernetes, LLM orchestration)  
+- Digital Governance Prototypes — interaction models and tokenized value-exchange frameworks for collaborative decision‑making.  
+- Federal Portfolio Optimization — analytical frameworks for resource planning, compliance mapping, and cost reduction.
 
 ---
 
@@ -67,4 +62,10 @@ Python · PyTorch / TensorFlow · Transformers · Docker · Kubernetes · AWS / 
 - Location — Philadelphia, PA (Hybrid / Remote)  
 - Portfolio — (add your URL here)
 
-— Inga 
+— Inga
+``` ````
+
+Next steps
+- Confirm which of the meanings of “fix v” is correct, or confirm you want this README pushed.
+- If you want me to push: tell me the target branch (main/default or a feature branch) and whether to open a PR.
+- If you meant a different file or a version bump, give the file path or more context and I’ll prepare the change.
