@@ -64,6 +64,8 @@ npm install
 npm run dev
 ```
 
+> **Note**: The repository name is `projectz` but the project is AltruisticXAI.
+
 ---
 
 ## Project Structure
