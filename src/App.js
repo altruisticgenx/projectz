@@ -27,8 +27,7 @@ function App() {
 
   const handleSaveReflection = (reflection) => {
     setReflections([...reflections, {
-      ...reflection,
-      timestamp: new Date().toISOString()
+      ...reflection
     }]);
   };
 
