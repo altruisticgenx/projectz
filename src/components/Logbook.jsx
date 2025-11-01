@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ChevronLeft, ChevronDown, ChevronUp, Download, Trash2 } from 'lucide-react';
+import { ChevronLeft, ChevronDown, ChevronUp, Download } from 'lucide-react';
 
 const Logbook = ({ reflections, onClose }) => {
   const [expandedIndex, setExpandedIndex] = useState(null);
